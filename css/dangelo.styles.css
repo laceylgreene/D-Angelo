@@ -5,6 +5,9 @@ img {
   width: 30%;
   float: right;
   background-color: lightblue;
+  padding: inherit;
+  margin: auto;
+  border: black, 3px;
 }
 .column {
   width: 300px;
